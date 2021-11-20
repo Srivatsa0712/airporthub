@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+
+*{
+    /* background-color:#B5DEFF; */
+    background: linear-gradient(to top left, #978ca3, #8df8f8);
+}
+
+.bulgy-radio{
+    /* width: 38rem; */
+    /* background: #fff; */
+    /* padding: 3rem 0 3rem 5rem; */
+    /* border-radius: 1rem; */
+    background: linear-gradient(to top left, #978ca3, #8df8f8);
+    text-align: center;
+}
+
+input{
+    width: 20px;
+    height: 20px;
+    align-items: center;
+    text-align: center;
+}
+
+h1{
+    font-family: 'Ubuntu', sans-serif;
+    color: #222;
+    text-align: center;
+    /* cursor: pointer; */
+}
+.h3{
+    font-family: 'Ubuntu', sans-serif;
+    color: #222;
+    cursor: pointer;
+    font-size: 150%;
+}
+.first{
+    border: 3px solid #222;
+}
+
+.h3:hover{
+    color: red;
+}
